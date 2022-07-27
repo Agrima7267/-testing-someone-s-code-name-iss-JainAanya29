@@ -1,0 +1,162 @@
+body{
+    background-image: url("bg1.webp");
+    background-position: center ;
+    background-size: cover;
+}
+#heading{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline dotted plum 5px;
+  
+}
+#login_text{
+    color: rgb(67, 3, 80);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline dotted rgb(255, 255, 255) 2.5px;
+}
+#enter_name{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 60%;
+   height: 5%;
+}
+#transfer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+   background-color: black;
+   color: white;
+   border-radius: 100px;
+   height: 7%;
+   width: 30%;
+   font-size: large;
+}
+#welcome{
+    color: white;
+    font-size: 300%;
+    text-decoration: underline dotted rgb(255, 255, 255) 7px;
+}
+
+#logo{
+    height: 100px;
+
+}
+#explanation{
+    font-size: larger;
+    text-decoration: underline dotted rgb(99, 2, 99) 4px ;
+    color: rgb(199, 199, 199);
+
+}
+#play{
+    padding-top: 10px;
+    padding-bottom: 10px;
+   background-color: black;
+   color: white;
+   border-radius: 100px;
+   height: 7%;
+   width: 10%;
+   font-size: medium;
+}
+#heading2{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline dotted plum 5px;
+}
+#change{
+    padding-top: 10px;
+    padding-bottom: 10px;
+   background-color: black;
+   color: white;
+   border-radius: 100px;
+   height: 10%;
+   width: 15%;
+   font-size: large;
+  
+  
+}
+#mall{
+    background-image: url("bg2.jpg");
+    background-position: center ;
+    background-size: cover;
+
+}
+#key, #value{
+    color: rgb(255, 255, 255);
+    text-decoration: underline dotted rgb(0, 0, 0) 5px;
+}
+#header_mall{
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline dotted #bd9b16 5px;
+    font-size: 40px;
+}
+#movie, #audio, #book, #cloth, #food, #back_mall{
+    padding-top: 10px;
+    padding-bottom: 10px;
+   background-color: black;
+   color: #bd9b16;
+   border-radius: 100px;
+   height: 10%;
+   width: 15%;
+   font-size: large;
+}
+#movie_hall{
+    background-image: url("theatre.jpg");
+    background-position: center ;
+    background-size: cover;
+
+}
+#header{
+    color: white;
+}
+#description{
+    color: rgb(61, 255, 245);
+}
+#buy{
+    padding-top: 10px;
+    padding-bottom: 10px;
+   background-color: #000000;
+   color: #bd9b16;
+   border-radius: 100px;
+   height: 10%;
+   width: 15%;
+   font-size: large;
+}
+#audio_heading{
+    margin-top: 35%;
+    text-align: center;
+    color: #000000 ;
+    font-size: 40px;
+   
+}
+#body_audio{
+    background-image: url("bg3.jpg");
+    background-position: center ;
+    background-size: cover;
+}
+#key2, #value2{
+    color: rgb(255, 255, 255);
+}
+#books{
+    background-image: url("bg4.jpg");
+    background-position: center ;
+    background-size: cover; 
+
+}
+#header{
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+#hp, #ts, #rw{
+    height: 200px;
+}
+#hp_link, #ts_link, #rw_link, #dress1_link{
+    color: white;
+    font-size: 20px;
+}
+
+#clothes{
+    background-image: url("bg5.jpg");
+    background-position: center ;
+    background-size: cover;  
+}
